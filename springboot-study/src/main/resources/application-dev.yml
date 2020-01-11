@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: springboot-study
+server:
+  servlet:
+    context-path: /zuojie-dev
